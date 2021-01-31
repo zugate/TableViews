@@ -6,7 +6,7 @@ target 'tableViewPort' do
 
   # Pods for tableViewPort
   
-  pod 'Alamofire', '4.9.1'
+  pod 'Alamofire'
 
   target 'tableViewPortTests' do
     inherit! :search_paths
